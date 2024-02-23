@@ -1,0 +1,1 @@
+Slides and materials for the event [Retours d'expérience: OpenStreetMap / applications de grands modèles de langage](https://www.meetup.com/data-science-strasbourg/events/298531567/) on 2 February 2024.
