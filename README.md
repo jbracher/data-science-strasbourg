@@ -1,2 +1,2 @@
 # data-science-strasbourg
-Slides and materials for the Strasbourg Data Science Meetup
+This repository contains slides and materials for the Strasbourg Data Science Meetup group.
